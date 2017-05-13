@@ -1,0 +1,27 @@
+body{
+  background: rgb(245,245,245);
+  color: #605856;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+h1{
+  color: #274156;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+h2 {
+  color: #1C6E8C;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: red;
+}
