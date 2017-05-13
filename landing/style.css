@@ -1,11 +1,11 @@
-body{
-  background: rgb(245,245,245);
-  color: #605856;
+body {
+  background: #D0CCD0;
+  color: #274156;
   font-size: 20px;
   font-family: 'Lato', sans-serif;
 }
 
-h1{
+h1 {
   color: #274156;
   font-weight: 700;
   font-size: 30px;
@@ -49,11 +49,12 @@ a:hover {
   padding: 30px;
   background: rgb(30, 30, 30);
   color: lightgrey;
+  font-size: 15px;
 }
 
 #footer a {
   color: lightgrey;
-  font-size: 15px;
+  font-size: 20px;
 }
 #footer a:hover {
   color: white;
@@ -62,4 +63,8 @@ a:hover {
 .card{
   padding: 50px;
   font-weight: lighter;
+}
+
+ul li{
+  display: inline;
 }
